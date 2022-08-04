@@ -11,8 +11,7 @@ This project is for a hackathon. Basically we have created a home page for iNeur
 
 ## **Final Output** ##
 
-[Final Preview]()
+[Final Preview]([![Netlify Status](https://api.netlify.com/api/v1/badges/45460b4a-7019-41ca-b37b-b6745c457f68/deploy-status)](https://app.netlify.com/sites/ineuron-homepageneo/deploys))
 
 ## **Live Link** ##
-<!-- <a href="https://live-class-project-12-harvi.netlify.app/" 
-class="button big"><img alt="Project Link" src="https://img.shields.io/badge/Project%20Link-Live%20Project%2012-brightgreen"></a> -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45460b4a-7019-41ca-b37b-b6745c457f68/deploy-status)](https://app.netlify.com/sites/ineuron-homepageneo/deploys)
